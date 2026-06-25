@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Cognizant_logo_2022.svg" width="320" alt="Cognizant" />
 </p>
@@ -186,3 +187,6 @@ dotnet run
 ---
 
 *Maintained for educational purposes as part of the Cognizant DN 5.0 program. Problem statements belong to Cognizant — only my solutions are published here.*
+=======
+# Cognizant
+>>>>>>> d492249c3fcb2fa9f50b0cf1eecb5c14cfc21ebb
